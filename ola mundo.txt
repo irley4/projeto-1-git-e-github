@@ -1,1 +1,2 @@
 Instrucões para git
+seja bem vindo ao mundo dev
